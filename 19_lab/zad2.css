@@ -1,0 +1,14 @@
+#gparent {
+    width: 400px;
+    border: 1px dashed purple;
+}
+#parent {
+    height: 250px;
+    border: 1px dashed green;
+    margin: 30px;
+}
+#child {
+    height: 200px;
+    border: 1px solid red;
+    margin: 30px;
+}

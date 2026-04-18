@@ -1,0 +1,25 @@
+#ex1 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+#ex2 {
+    height: 100px;
+    border: 1px solid red;
+}
+#ex3 {
+    width: 100px;
+    border: 1px solid red;
+}
+#ex4 {
+    width: 100px;
+    border: 1px solid red;
+}
+#ex5{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+span {
+    border: 1px solid red;
+}
